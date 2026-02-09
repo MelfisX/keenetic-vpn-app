@@ -1,0 +1,14 @@
+{
+  "routerIp": "192.168.1.1",
+  "routerPort": "81",
+  "routerUsername": "admin",
+  "routerPassword": "ваш_пароль",
+  "vpnPolicy": "Policy0",
+  "noVpnPolicy": "Policy1",
+  "showMac": false,
+  "showIp": false,
+  "showStats": false,
+  "autoRefresh": true,
+  "refreshInterval": 15,
+  "offlineDelay": 10
+}
